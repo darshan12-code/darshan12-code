@@ -1,7 +1,4 @@
-### Hi there 👋
 
-<!--
-**darshan12-code/darshan12-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 <h1 align="center">Hi 👋, I'm Darshan Agrawal</h1>
 <h3 align="center">A passionate software developer</h3>
@@ -31,4 +28,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=darshan12-code&show_icons=true&locale=en&layout=compact" alt="darshan12-code" /></p>
 
--->
+
