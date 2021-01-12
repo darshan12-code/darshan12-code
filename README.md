@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **darshanagrawal007@gmail.com**
 
-- 📄 Know about my experiences [https://instagram.com/darshan_agrawal12](www.linkedin.com/in/darshan-agrawal-012)
+- 📄 Know about my experiences [https://linkedin.com/in/darshan-agrawal-012](https://www.linkedin.com/in/darshan-agrawal-012)
 
 - ⚡ Fun fact **I think sometimes I talk with Myself**
 
