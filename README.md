@@ -13,13 +13,13 @@
 
 - 📫 How to reach me **darshanagrawal007@gmail.com**
 
-- 📄 Know about my experiences [www.linkedin.com/in/darshan-agrawal-012](www.linkedin.com/in/darshan-agrawal-012)
+- 📄 Know about my experiences [https://instagram.com/darshan_agrawal12](www.linkedin.com/in/darshan-agrawal-012)
 
 - ⚡ Fun fact **I think sometimes I talk with Myself**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/darshan-agrawal-012" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="www.linkedin.com/in/darshan-agrawal-012" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/darshan-agrawal-012" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="www.linkedin.com/in/darshan-agrawal-012" height="30" width="40" /></a>
 <a href="https://instagram.com/darshan_agrawal12" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="darshan_agrawal12" height="30" width="40" /></a>
 </p>
 
