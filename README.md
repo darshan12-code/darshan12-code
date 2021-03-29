@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Darshan Agrawal</h1>
-<h3 align="center">A passionate Software developer and Front End Web developer from India</h3>
+<h3 align="center">A passionate Software developer and Web developer from India</h3>
 
 - 🔭 I’m currently working on **Python Projects**
 
 - 🌱 I’m currently learning **Django**
 
-- 👯 I’m looking to collaborate on **Java projects**
+- 👯 I’m looking to collaborate on **Web projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/darshan12-code](https://github.com/darshan12-code)
 
