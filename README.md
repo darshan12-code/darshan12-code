@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Darshan Agrawal</h1>
 <h3 align="center">A passionate Software developer and Web developer from India</h3>
 
-- 🔭 I’m currently working on **Python Projects**
+- 🔭 I’m currently working on **Full Stack Project**
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **NextJs**
 
 - 👯 I’m looking to collaborate on **Web projects**
 
