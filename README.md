@@ -3,7 +3,6 @@
 
 - 🔭 I’m currently working on **Full Stack Project**
 
-- 🌱 I’m currently learning **NextJs**
 
 - 👯 I’m looking to collaborate on **Web projects**
 
