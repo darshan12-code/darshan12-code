@@ -3,9 +3,9 @@
 Building production grade applications, high performance APIs, and data driven platforms.
 </p>🔭 Currently building scalable full stack applications and data driven platforms
 
-🌎 Working with a US-based remote team delivering production systems
+🌎 Working with a US based remote team delivering production systems
 
-👯 Open to collaborate on high-impact web and cloud projects
+👯 Open to collaborate on high impact web and cloud projects
 
 👨‍💻 Explore my work: https://github.com/darshan12-code
 
