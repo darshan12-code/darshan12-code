@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Darshan Agrawal</h1>
 <h3 align="center">Senior Full Stack Software Engineer | React • Python • Cloud • Scalable Systems</h3><p align="center">
-Building production-grade applications, high-performance APIs, and data-driven platforms.
-</p>🔭 Currently building scalable full stack applications and data-driven platforms
+Building production grade applications, high performance APIs, and data driven platforms.
+</p>🔭 Currently building scalable full stack applications and data driven platforms
 
 🌎 Working with a US-based remote team delivering production systems
 
